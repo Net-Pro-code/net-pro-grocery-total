@@ -6,8 +6,8 @@ Course: CIS-MSD-321 Mobile Solutions Development (Assignment)
 
 ## Links
 
-- Hosted web version: `PASTE YOUR HOSTED URL HERE`
-- Android app (APK): `PASTE YOUR EXPO BUILD LINK HERE`
+- Hosted web version: `https://clever-bavarois-1afc6e.netlify.app`
+- Android app (APK): `https://expo.dev/accounts/rodmas/projects/grocery-qr-total/builds/a390aebc-3939-4c36-9c4d-3f8cab14f3b6`
 
 ## Features
 
