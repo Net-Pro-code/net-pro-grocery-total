@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Net-Pro Grocery Total",
+    "slug": "grocery-qr-total",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "web": { "bundler": "metro", "output": "single" },
+    "newArchEnabled": false,
+    "icon": "./icon.png",
+    "android": {
+      "package": "com.netprosys.grocerytotalapp",
+      "permissions": [
+        "android.permission.CAMERA"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Net-Pro Grocery Total needs the camera to scan QR codes.",
+          "recordAudioAndroid": false
+        }
+      ],
+      "expo-asset"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2e718e2e-8a84-4e16-bfa0-9075f550ab63"
+      }
+    }
+  }
+}
